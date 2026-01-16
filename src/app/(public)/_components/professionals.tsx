@@ -48,7 +48,7 @@ export function Professionals() {
 
                 <Link
                   href="/clinica/123"
-                  className="w-full bg-emerald-500 hover:bg-emerald-400 text-white flex items-center justify-center rounded-md py-2 text-sm font-medium md:text-base"
+                  className="w-full bg-emerald-500 hover:bg-emerald-400 duration-300 text-white flex items-center justify-center rounded-md py-2 text-sm font-bold "
                 >
                   Agendar Horário
                   <ArrowRight />

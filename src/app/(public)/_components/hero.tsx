@@ -17,7 +17,7 @@ export function Hero() {
               agilizar seu atendimento de froma simplificada e organizada.
             </p>
 
-            <Button className="bg-emerald-500 hover:bg-emerald-400 hover:cursor-pointer w-fit px-5 font-semibold">
+            <Button className="bg-emerald-500 hover:bg-emerald-400 hover:cursor-pointer w-fit p-5 font-semibold text-base duration-300">
               Encontre uma clínica
             </Button>
           </article>
@@ -26,8 +26,8 @@ export function Hero() {
             <Image
               alt="Foto ilustratiiva profissional da saúde"
               src={doctorImg}
-              width={340}
-              height={400}
+              width={420}
+              height={500}
               className="object-contain"
               quality={100}
               priority

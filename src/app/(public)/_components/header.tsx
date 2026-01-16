@@ -43,7 +43,7 @@ export function Header() {
           Painel da Clínica
         </Link>
       ) : (
-        <Button className="hover:cursor-pointer">
+        <Button className="hover:cursor-pointer text-base md:text-sm">
           <LogIn />
           Portal da Clínica
         </Button>
